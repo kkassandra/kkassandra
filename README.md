@@ -26,3 +26,5 @@ Pursuing a Joint Concentration in Computer Science and Philosophy at Harvard Uni
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/1200px-Harvard_University_coat_of_arms.svg.png" width="100" />
 ---------------------------------------------------------------------------------------
+
+Page Currently under reconstruction
